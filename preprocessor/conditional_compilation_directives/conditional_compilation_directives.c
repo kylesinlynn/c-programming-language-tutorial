@@ -1,5 +1,5 @@
 #include <stdio.h>
-#ifndef LEVEL
+#if !defined(LEVEL)
   #define LEVEL 4
 #endif
 
